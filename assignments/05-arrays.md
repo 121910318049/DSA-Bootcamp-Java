@@ -3,6 +3,7 @@
 ## Submit the following on your Leetcode profile itself.
 
 ### Easy
+0.[sort the array like 0 s on one side and 1 s on one side]
 1. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 2. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 3. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
